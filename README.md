@@ -22,7 +22,7 @@ it is important to make sure these ros versions are not automatically sourced in
 ```bash
 gedit ~/.bashrc
 ```
-Uncomment if there is any sourcing lines existing in .bashrc (sometimes its written automatically when you install a distribution)
+Comment out if there is any sourcing lines existing in .bashrc (sometimes its written automatically when you install a distribution)
 ```bash
 #source /opt/ros/foxy/setup.bash
 #source /opt/ros/noetic/setup.bash
