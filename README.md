@@ -36,6 +36,7 @@ alias noetic='source /opt/ros/noetic/setup.bash'
 Open up a new terminal, divide it into two screens and make a distinction between ros1 and ros2 terminals easier. Write 'noetic' (if you made the alias) or source /opt/ros/noetic/setup.bash to the terminals you want for ROS1 and 'foxy' for ROS2. The terminals might look like this
 
 image
+![Brdige](https://github.com/kenanalperen/ros1-2/blob/main/bridge.jpg)
 
 In one of the ROS1 terminals, write roscore so ros1 can work
 ```bash
